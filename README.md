@@ -10,4 +10,4 @@ The rest of the code is written by me
 It is game based on frogger with 2 level and different obstacles
 
 # How to run
-It need to be downloaded, then compile it and set the libraries. It uses Slick2D.
+Set the libraries, then compile it using IDE such as IntelliJ or Eclipse. It uses Slick2D.
